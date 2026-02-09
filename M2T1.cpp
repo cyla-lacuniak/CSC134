@@ -1,7 +1,7 @@
 // CSC 134
-// M1LAB
+// M2T1
 // Cyla
-// 2/2/26
+// 2/8/26
 
 #include <iostream>
 using namespace std;
@@ -9,7 +9,6 @@ int main () {
 
     // this program will simulate a book store
     // the owner's name
-
     // price per book
 
     
