@@ -6,12 +6,11 @@
 #include <iostream>
 using namespace std;
 
-
-
 //functions that exist but must be defind later on
 void choosePlate1();
 void choosePlate2();
 void choosePlate3();
+
 
 int main() {
 
